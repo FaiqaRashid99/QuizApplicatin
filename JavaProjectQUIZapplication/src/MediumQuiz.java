@@ -1,3 +1,8 @@
+//GROUP MEMBERS:
+//Faiqa Rashid 3833-FBAS/BSCS/F18-A
+//Sehrish Rani 3820-FBAS/BSCS/F18-A
+//Rabia Saleem 3837-FBAS/BSCS/F18-A
+//Yusra Waheed 3835-FBAS/BSCS/F18-A
 import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;  
@@ -142,7 +147,7 @@ class MediumQuiz extends JFrame implements ActionListener
         }  
         if(current==4)  
         {  
-            l.setText("Que5: In order to  run JSP ……………… is required"); 
+            l.setText("Que5: In order to  run JSP â€¦â€¦â€¦â€¦â€¦â€¦ is required"); 
             jb[0].setText("Mail Server");
             jb[1].setText("Applet viewer");
             jb[2].setText("Java Web Server");  //
@@ -166,7 +171,7 @@ class MediumQuiz extends JFrame implements ActionListener
         }  
         if(current==7)  
         {  
-            l.setText("Que8: In JDBC …………… imports all Java classes concerned with database connectivity");           		
+            l.setText("Que8: In JDBC â€¦â€¦â€¦â€¦â€¦ imports all Java classes concerned with database connectivity");           		
             jb[0].setText("javax.sql.*");
             jb[1].setText("java.mysql.*");
             jb[2].setText("java.sql.*");  //
@@ -174,7 +179,7 @@ class MediumQuiz extends JFrame implements ActionListener
         }  
         if(current==8)  
         {  
-            l.setText("Que9: Ingres is a ……………………");
+            l.setText("Que9: Ingres is a â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦");
             jb[0].setText("Socket");
             jb[1].setText("Compiler");
             jb[2].setText("Database");//
@@ -182,7 +187,7 @@ class MediumQuiz extends JFrame implements ActionListener
         }  
         if(current==9)  
         {  
-            l.setText("Que10: ………………….is the key to ……………………");  
+            l.setText("Que10: â€¦â€¦â€¦â€¦â€¦â€¦â€¦.is the key to â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦");  
             jb[0].setText("Serialization, persistence");//
             jb[1].setText(" Persistence, inheritance");
             jb[2].setText("Inheritance, object");       
