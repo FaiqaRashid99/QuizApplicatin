@@ -1,8 +1,3 @@
-//GROUP MEMBERS:
-//Faiqa Rashid 3833-FBAS/BSCS/F18-A
-//Sehrish Rani 3820-FBAS/BSCS/F18-A
-//Rabia Saleem 3837-FBAS/BSCS/F18-A
-//Yusra Waheed 3835-FBAS/BSCS/F18-A
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.Font;
